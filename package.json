@@ -16,7 +16,7 @@
     "node": ">=10"
   },
   "dependencies": {
-    "async": "^1.4.2",
+    "async": "^2.6.4",
     "debug": "^2.2.0",
     "git-notifier": "^2.1.0",
     "nodemailer": "^0.7.0",
